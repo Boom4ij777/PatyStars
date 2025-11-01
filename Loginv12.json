@@ -1,0 +1,14 @@
+{
+  "maintenance": false,
+  "message": "Mod Maintenance Break",
+  "keys": {
+    "@KuttaCheat": {
+      "status": "valid",
+      "expiry": "2025-11-02T00:00:00"
+    },
+    "SUN7DAY": {
+      "status": "valid",
+      "expiry": "2025-10-06T00:00:00"
+    }
+  }
+}
